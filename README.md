@@ -1,1 +1,2 @@
 # Leaf-challenge
+The JavaScript code for initializing the interactive earthquake map using Leaflet is located in the logic.js file within the scripts directory of your repository. This file configures the map, fetches earthquake data from the USGS, and visualizes earthquake locations with customizable markers and popups. Additionally, it includes a legend for interpreting earthquake depth ranges.
